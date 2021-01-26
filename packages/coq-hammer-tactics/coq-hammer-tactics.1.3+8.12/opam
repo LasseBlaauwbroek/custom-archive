@@ -22,6 +22,7 @@ depends: [
   "ocaml"
   "coq" {>= "8.12" & < "8.13~"}
   "dune" {>= "2.5" & build}
+  "coq-tactician-stdlib"
 ]
 
 conflicts: [
