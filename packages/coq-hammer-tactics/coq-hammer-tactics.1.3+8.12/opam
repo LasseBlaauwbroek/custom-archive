@@ -41,5 +41,5 @@ authors: [
 ]
 
 url {
-  src: "git+https://github.com/lukaszcz/coqhammer.git#coq8.12"
+  src: "git+https://github.com/LasseBlaauwbroek/coqhammer.git#coq8.12"
 }
