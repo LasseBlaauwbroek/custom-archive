@@ -26,5 +26,5 @@ build: [
 ]
 
 url {
-  src: "git+ssh://git@github.com:LasseBlaauwbroek/unit-tests-graph2tac"
+  src: "git+ssh://git@github.com/LasseBlaauwbroek/unit-tests-graph2tac.git"
 }
