@@ -24,3 +24,7 @@ build: [
   ]
   ["dune" "install" "-p" name "--create-install-files" name]
 ]
+
+url {
+  src: "git@github.com:pestun/graph2tac.git/tests/unit-test-prop-chain-5-100"
+}
