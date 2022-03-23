@@ -26,5 +26,5 @@ build: [
 ]
 
 url {
-  src: "git@github.com:pestun/graph2tac.git/tests/unit-test-prop-chain-5-100"
+  src: "git@github.com:LasseBlaauwbroek/unit-tests-graph2tac.git"
 }
