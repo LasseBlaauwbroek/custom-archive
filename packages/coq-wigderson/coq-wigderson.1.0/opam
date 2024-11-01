@@ -1,0 +1,13 @@
+opam-version: "2.0"
+maintainer: "unknown"
+synopsis: "unknown"
+build: [make "-j%{jobs}%"]
+install: [make "install"]
+depends: [
+  "ocaml"
+  "coq" {>= "8.17" & < "8.18~"}
+]
+url {
+  src: "https://github.com/LasseBlaauwbroek/coq-wigderson/archive/refs/tags/1.0.tar.gz"
+  checksum: "md5=6d691a0a971002d793368e08bdf1c26a"
+}
