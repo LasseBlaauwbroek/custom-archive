@@ -9,6 +9,6 @@ depends: [
   "coq-hammer"
 ]
 url {
-  src: "https://github.com/LasseBlaauwbroek/coq-wigderson/archive/refs/tags/v8.11.tar.gz"
-       checksum: "md5=4f1c6b554ba1cc1bd6c0dec78aac2b32"
+  src: "https://github.com/LasseBlaauwbroek/coq-wigderson/archive/refs/tags/v8.11-2.tar.gz"
+       checksum: "md5=7200eb6f16656303dd5fb93ed2b8b47d"
 }
